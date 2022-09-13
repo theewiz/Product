@@ -68,6 +68,3 @@ Truly, I am proud of this HTML & CSS codes😊:
 
 For me, the goal is to take on much more tasking HTML & CSS so as to get better at it before movig on to JS
 
-## Acknowledgments
-
-Grateful to Frontend Mentors for these projects - I'd keep practicing.

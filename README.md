@@ -16,7 +16,7 @@ This is a solution to the [Product Card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./images/dshot.png)
+![](./images/shot.png)
 
 ### Links
 

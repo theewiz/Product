@@ -129,7 +129,7 @@ button .fa-sharp {
         font-size: 14px;
         font-family:'Montserrat', sans-serif;
         text-align: center;
-        justify-content: baseline;
+        align-items: baseline;
 }
 .attribution a {
         color: hsl(228, 45%, 44%);

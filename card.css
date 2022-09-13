@@ -108,18 +108,11 @@ button {
     border-radius: 8px;
     background-color: hsl(158, 36%, 37%);
     margin-top: 20px;
+    color: white;
 }
 
 button:hover {
     background-color: hsl(158, 34%, 25%);
-}
-
-button a {
-    text-decoration: none;
-}
-
-button .link {
-    color: white;
 }
 
 button .fa-sharp {

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Frontend Mentor - Product Card component solution
 
 This is a solution to the [Product Card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
@@ -72,6 +71,3 @@ For me, the goal is to take on much more tasking HTML & CSS so as to get better 
 ## Acknowledgments
 
 Grateful to Frontend Mentors for these projects - I'd keep practicing.
-=======
-
->>>>>>> 547f4e58459548cd7e56ab4941a5336b3bf8535f

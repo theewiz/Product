@@ -126,7 +126,8 @@ button .fa-sharp {
 }
 
 .attribution {
-        font-size: 11px;
+        font-size: 14px;
+        font-family:'Montserrat', sans-serif;
         text-align: center;
 }
 .attribution a {

@@ -197,14 +197,8 @@ button .fa-sharp {
 }
 
 .attribution {
-        font-size: 14px;
-        font-family:'Montserrat', sans-serif;
-        text-align: center;
-        align-items: baseline;
-        justify-content: baseline;
+        visibility: hidden;
 }
-.attribution a {
-        color: hsl(228, 45%, 44%);
-}
+
 
 }

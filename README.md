@@ -20,8 +20,8 @@ This is a solution to the [Product Card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](http://127.0.0.1:5500/#)
+- Live Site URL: [Add live site URL here](https://famous-zuccutto-dce63e.netlify.app/)
 
 ## My process
 
